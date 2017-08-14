@@ -1,2 +1,2 @@
 # laravel-boilerplate
-A boilerplate for general usages
+A API boilerplate for general usages
